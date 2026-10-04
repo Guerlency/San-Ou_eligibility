@@ -1,0 +1,10 @@
+{
+  "description": "This app assesses sand donor eligibility and serves as a consultation tool for medical selection doctors, streamlining the donor evaluation process.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
